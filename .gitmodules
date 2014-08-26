@@ -1,3 +1,4 @@
 [submodule "petulant-wallhack"]
 	path = petulant-wallhack
 	url = https://github.com/BrettIUGO/petulant-wallhack.git
+	branch = 1.0
